@@ -33,7 +33,7 @@ plt.suptitle("Sayısal Değişkenlerin Dağılımı", y=1.02)
 plt.tight_layout()
 plt.show()
 
-# 7. Aykırı değer (boxplot)
+# 7. Aykırı değer 
 plt.figure(figsize=(8,5))
 df.boxplot(column=["Box Office ($M)", "Runtime (mins)", "Oscars Won"])
 plt.title("Aykırı Değer Analizi (Boxplot)")
