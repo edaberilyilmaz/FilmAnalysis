@@ -1,5 +1,14 @@
 # Film Verileri Üzerinde IMDb Puanı Tahminleme ve Analiz Çalışması
 
+
+## 1. Veri Setinin Tanıtımı
+## 2. Temel Veri Analizi (EDA)
+## 3. Sayısal ve Kategorik Değişkenlerin Görsel Analizi
+## 4. Veri Ön İşleme
+## 5. Modelleme (Logistic Regression)
+## 6. Sonuçların Yorumlanması
+
+
 ## 1. Veri Setinin Tanıtımı
 
 Bu çalışmada Kaggle platformunda paylaşılan **“Top 100 Movies (Best Effort Full Data)”** veri seti kullanılmıştır.  
